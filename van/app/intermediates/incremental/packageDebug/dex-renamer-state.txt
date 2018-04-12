@@ -1,0 +1,4 @@
+#Wed Apr 04 17:52:59 PKT 2018
+base.0=C\:\\Users\\Talha\\Desktop\\reactnative\\vanforyou\\van\\app\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main
+renamed.0=classes.dex
+file.0=C\:\\Users\\Talha\\Desktop\\reactnative\\vanforyou\\van\\app\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main\\classes.dex
